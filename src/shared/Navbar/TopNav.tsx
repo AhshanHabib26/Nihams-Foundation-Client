@@ -18,8 +18,8 @@ const TopNav = () => {
               <FaSun color="orange" />
             </div>
             <div className="flex items-center">
-              <Button size="sm" className="bg-green-500 rounded-none cursor-pointer">EN</Button>
-              <Button size="sm" className=" bg-white text-black rounded-none cursor-pointer">বাংলা</Button>
+              <Button size="sm" className="text-lg font-normal bg-green-500 hover:bg-green-500 rounded-none cursor-pointer">EN</Button>
+              <Button size="sm" className="text-lg font-normal bg-white hover:bg-white text-black rounded-none cursor-pointer">বাংলা</Button>
             </div>
           </div>
         </div>
