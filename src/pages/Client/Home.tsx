@@ -1,7 +1,10 @@
+import DonationForm from "@/components/Client/DonationForm"
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <div>
+      <DonationForm />
+    </div>
   )
 }
 
