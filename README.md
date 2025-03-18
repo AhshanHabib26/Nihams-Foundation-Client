@@ -1,54 +1,39 @@
-# React + TypeScript + Vite
+### Project Details
+- Project Name: Nihams Foundation (An online donation platform.)
+- Overview: Nihams Foundation is a frontend project built with React, TypeScript, and Tailwind CSS, focused on fund collection. It features a user-friendly interface, secure payment integration, and a responsive design. Check it out [live link](https://nihams-foundation.netlify.app/).
+- Project Technology:
+  - Frontend: React, TypeScript, Tailwind CSS, ShadCN.
+  - Backend: .
+- Project URL:
+  - For Frontend: [Click Here](https://nihams-foundation.netlify.app/)
+  - For Backend: [Contact Me](https://wa.me/1646418365)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
+### Project Details (Frontend)
+- Main Menu :
+  - Brand Logo
+  - Home
+  - About
+  - Projects
+  - Ongoing Projects
+  - Blogs
+  - Membership
+  - Contact
 
-Currently, two official plugins are available:
+---
+- Home Page Section:
+  - Navbar
+  - Donation Form
+  - loading 💥
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+---
+#### This Website Totally User Friendly and Fully Responsive, Please review this awesome projects and feel free and give your opinion Or any suggestions. Really, it's my pleasure.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+----
+### Note
+  * If you want to design a website or need any website-related service, feel free to ask me.
+    * [WhatsApp](https://wa.me/1646418365)
+    * [Email](ahshan.habib026@gmail.com)
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+---
