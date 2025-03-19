@@ -1,3 +1,4 @@
+import About from "@/components/Client/Home/About"
 import Banner from "@/components/Client/Home/Banner"
 import DonationForm from "@/components/Client/Home/DonationForm"
 
@@ -6,6 +7,7 @@ const HomePage = () => {
     <div>
       <DonationForm />
       <Banner />
+      <About/>
     </div>
   )
 }
