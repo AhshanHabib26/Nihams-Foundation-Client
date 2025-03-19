@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
 import {
   Select,
   SelectContent,
@@ -7,8 +9,6 @@ import {
 } from "@/components/ui/select";
 import { getDonationFundData } from "@/data/DonationFundData";
 import Container from "@/lib/Container";
-import { Input } from "../ui/input";
-import { Button } from "../ui/button";
 
 const DonationForm = () => {
   const donationFunds = getDonationFundData();
