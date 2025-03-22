@@ -4,7 +4,7 @@ import Container from "@/lib/Container"
 const About = () => {
   const about = AboutData()
   return (
-    <div className=" bg-green-50 py-12">
+    <div className=" bg-green-50 py-16">
       <Container>
         <div>
           {about.map(item => <div key={item.id} className="grid grid-cols-1 lg:grid-cols-2 gap-5">
