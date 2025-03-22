@@ -20,7 +20,7 @@ const OngoingProject = () => {
   ], []);
 
   return (
-    <div className="bg-green-50 py-5">
+    <div className="bg-green-50 py-8">
       <Container>
         <h1 className="text-center text-2xl font-semibold text-gray-700 mb-5">Ongoing Projects</h1>
         <Carousel opts={carouselOptions} plugins={carouselPlugins}>
