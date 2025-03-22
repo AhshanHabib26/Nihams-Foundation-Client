@@ -24,7 +24,13 @@
 - Home Page Section:
   - Navbar
   - Donation Form
-  - loading 💥
+  - Banner
+  - About Foundation
+  - All Fund
+  - Ongoing Projects
+  - Latest News
+  - Gallery
+  - Footer
 
 
 ---
@@ -32,8 +38,8 @@
 
 ----
 ### Note
-  * If you want to design a website or need any website-related service, feel free to ask me.
+  * If you want to design a website, need any website-related services, or want the full version of this website, feel free to reach out to me.
     * [WhatsApp](https://wa.me/1646418365)
-    * [Email](ahshan.habib026@gmail.com)
+    * [Email](mailto:ahshan.habib026@gmail.com)
 
 ---
