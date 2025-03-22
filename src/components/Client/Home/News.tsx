@@ -5,7 +5,7 @@ import NewsCard from "./NewsCard"
 const News = () => {
   const news = NewsData() || []
   return (
-    <div className="my-5">
+    <div className="pt-5 pb-12">
       <Container>
         <div>
           <h1 className="text-center text-2xl font-semibold text-gray-700">Latest News</h1>

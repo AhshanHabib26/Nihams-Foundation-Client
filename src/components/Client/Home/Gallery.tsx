@@ -5,7 +5,7 @@ import GalleryCard from "./GalleryCard"
 const Gallery = () => {
   const gallery = GalleryData() || []
   return (
-    <div className="bg-green-50 py-5">
+    <div className="bg-green-50 pt-5 pb-12">
       <Container>
         <div>
           <h1 className="text-center text-2xl font-semibold text-gray-700 mb-5">Latest Gallery</h1>
